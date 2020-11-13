@@ -364,7 +364,7 @@ a:hover {
 		top: 50%;
 		right: 20px;
 		-ms-transform: translate(0, -50%);
-		    transform: translate(0, -50%);
+		transform: translate(0, -50%);
 		-webkit-transform: translateY(-50%);
 	}
 	.nav > li .dropdown-menu a,
@@ -470,7 +470,7 @@ button {
 	border-bottom-color: rgba(0, 0, 0, 0.1);
 	text-shadow: 0 1px 0 rgba(0, 0, 1, 0.1);
 	-webkit-box-shadow: 0 1px 3px rgba(0, 0, 1, 0.25), inset 0 1px 0 0 rgba(255, 255, 255, 0.15);
-	        box-shadow: 0 1px 3px rgba(0, 0, 1, 0.25), inset 0 1px 0 0 rgba(255, 255, 255, 0.15);
+	box-shadow: 0 1px 3px rgba(0, 0, 1, 0.25), inset 0 1px 0 0 rgba(255, 255, 255, 0.15);
 }
 
 .icon-md {
@@ -506,7 +506,7 @@ button {
 .form-control {
 	border-color: rgba(0, 0, 0, 0.1);
 	-webkit-box-shadow: none;
-	        box-shadow: none;
+	box-shadow: none;
 }
 
 .scrollToTop {
@@ -552,7 +552,7 @@ a[data-lightbox]:hover::before {
 	position: absolute;
 	top: 50%;
 	-ms-transform: translateY(-50%);
-	    transform: translateY(-50%);
+	transform: translateY(-50%);
 	-webkit-transform: translateY(-50%);
 }
 
@@ -567,8 +567,8 @@ a[data-lightbox]:hover img {
 	display: -ms-flexbox;
 	display: flex;
 	-webkit-box-align: center;
-	    -ms-flex-align: center;
-	        align-items: center;
+	-ms-flex-align: center;
+	align-items: center;
 }
 
 #lightbox-modal .modal-dialog {
@@ -728,7 +728,7 @@ h3 {
 	max-width: 800px;
 	margin: auto auto auto auto;
 	-webkit-box-shadow: 0px 0px 0px #000000;
-	        box-shadow: 0px 0px 0px #000000;
+	box-shadow: 0px 0px 0px #000000;
 }
 
 h1 {
@@ -759,7 +759,7 @@ h4 {
 
 .avatar {
 	-webkit-box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
-	        box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
+	box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
 }
 
 .black-background {
@@ -781,20 +781,20 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-	background-color: #f3976c;
+	background-color: #b35219;
 }
 
 .tc-white {
-	color: #f3976c !important;
+	color: #ff9f66 !important;
 }
 
 .btn-atomic-tangerine {
-	background: #f3976c;
+	background: #b35219;
 	color: #ffffff !important;
 }
 
 .btn-atomic-tangerine:hover {
-	background: #c27956 !important;
+	background: #863d13 !important;
 	color: #ffffff !important;
 }
 
@@ -807,11 +807,16 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-	color: #f3976c !important;
+	color: #b35219 !important;
 }
 
 .ltc-atomic-tangerine:hover {
-	color: #c27956 !important;
+	color: #863d13 !important;
+}
+
+#contact h1,
+#contact p {
+	color: white !important;
 }
 
 .icon-dark-slate-blue {
