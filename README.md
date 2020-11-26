@@ -1,4 +1,4 @@
-# Optimisez un site web existant
+# P4
 
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://validator.w3.org/nu/?doc=https%3A%2F%2Farthurblanc.github.io%2FArthurBlanc_4_09112020%2F)
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Farthurblanc.github.io%2FArthurBlanc_4_09112020%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=fr)
@@ -9,8 +9,6 @@ Lien du projet : https://arthurblanc.github.io/ArthurBlanc_4_09112020/
 Ancienne version du site : https://arthurblanc.github.io/ArthurBlanc_4_09112020/Starting-website/
 
 ## Description :
-
-Optimisez un site web existant :
 
 > Faites passer le site web de votre entreprise en tête des résultats Google grâce à la mise en place de bonnes pratiques de SEO.
 >
