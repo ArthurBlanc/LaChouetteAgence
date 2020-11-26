@@ -24,19 +24,18 @@ Optimisez un site web existant :
 
 ### Situation (fictive) du projet :
 
-Développeur web dans une grande agence de web design basée à Lyon
+Développeur web dans une grande agence de web design basée à Lyon.
 
-La concurrence étant rude, l'agence se retrouve en perte de vitesse, la fondatrice de l'entreprise décide donc qu'il faut réaliser une optimisation du site web pour faire repartir l'activité de l'entreprise
+Face à une concurrence rude, l’agence accuse une perte de vitesse, la fondatrice de l’entreprise décide donc qu’il faut réaliser une optimisation du site web pour faire repartir l’activité de l’entreprise
 
-Mon rôle a été de rédiger une analyse des problèmes sous forme d'un tableau, d'optimiser le site web avec des bonnes pratiques en SEO et en accessibilité et de réaliser un rapport d'optimisation comparant les résultats des optimisations
-
+Mon rôle a été de rédiger une analyse des problèmes sous forme d'un tableau, d'optimiser le site web avec des bonnes pratiques en SEO et en accessibilité et de réaliser un rapport d'optimisation comparant les résultats des optimisations.
 ### Listes des 10 optimisations retenues :
 
 1. Transfert du formulaire sur la page d’accueil
 2. Minification du CSS et du JavaScript
-3. Optimisation du <head> dans le HTML
-4. Suppression des textes invisibles (BlackHat)
-5. Suppression des liens de mauvaises qualités dans le <footer>
+3. Optimisation du head dans le HTML
+4. Suppression des textes invisibles (Black Hat)
+5. Suppression des liens de mauvaise qualité dans le footer
 6. Remplacement des images contenant uniquement du texte
 7. Ajout des balises sémantiques
 8. Optimisation des images
@@ -45,7 +44,7 @@ Mon rôle a été de rédiger une analyse des problèmes sous forme d'un tableau
 
 ## Installation
 
--   **Executez Git bash**
+-   **Exécutez Git bash**
 -   **git clone https://github.com/ArthurBlanc/ArthurBlanc_4_09112020**
 
 ## Développé avec
