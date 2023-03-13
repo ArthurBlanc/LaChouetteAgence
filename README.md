@@ -28,7 +28,7 @@ Développeur web dans une grande agence de web design basée à Lyon.
 
 Face à une concurrence rude, l’agence accuse une perte de vitesse, la fondatrice de l’entreprise décide donc qu’il faut réaliser une optimisation du site web pour faire repartir l’activité de l’entreprise
 
-Mon rôle a été de rédiger une analyse des problèmes sous forme d'un tableau, d'optimiser le site web avec des bonnes pratiques en SEO et en accessibilité et de réaliser un [rapport d'optimisation](/resources/rapport_optimisation.pdf) comparant les résultats des optimisations.
+Mon rôle a été de rédiger une analyse des problèmes sous forme d'un tableau, d'optimiser le site web avec des bonnes pratiques en SEO et en accessibilité et de réaliser un [rapport d'optimisation](/ressources/rapport_optimisation.pdf) comparant les résultats des optimisations.
 
 ### Listes des 10 optimisations retenues :
 
@@ -90,7 +90,7 @@ Web developer in a large web design agency based in Lyon.
 
 Faced with tough competition, the agency is experiencing a slowdown, so the company's founder decides that the website needs to be optimized to restart the company's activity.
 
-My role was to write an analysis of the problems in the form of a table, optimize the website with good SEO and accessibility practices, and prepare an [optimization report (in French)](/resources/rapport_optimisation.pdf) comparing the results of the optimizations.
+My role was to write an analysis of the problems in the form of a table, optimize the website with good SEO and accessibility practices, and prepare an [optimization report (in French)](/ressources/rapport_optimisation.pdf) comparing the results of the optimizations.
 
 ### List of 10 optimizations:
 
